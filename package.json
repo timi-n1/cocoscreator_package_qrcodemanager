@@ -1,0 +1,14 @@
+{
+    "name": "qrcode-manager",
+    "version": "1.0.0",
+    "description": "生成小程序码",
+    "author": "Cocos Creator",
+    "main": "main.js",
+    "main-menu": {
+        "Packages/平台/微信小游戏/生成小程序码": {
+            "message": "qrcode-manager:run"
+        }
+    },
+    "dependencies": {
+    }
+}
